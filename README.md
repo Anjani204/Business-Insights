@@ -216,7 +216,7 @@ In Home view, all the views button will be available. User will land on specific
 </p>
 
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/Anjani204/Business-Insights/blob/main/Business_Insights.pbix)
 
 
 ## Project Outcome
