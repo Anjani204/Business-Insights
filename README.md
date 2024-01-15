@@ -160,7 +160,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI%20data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -179,36 +179,42 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
 
 ## Info Page
+<p align="center">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI_Home%20Page.png" width="300">
+</p>
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
 
 ## Finance View
+<p align="center">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI%20Finance%20.png" height="400">
+</p>
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
 ## Sales View
+<p align="center">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI%20Sales.png" height="400">
+</p>
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
 
 ## Marketing View
+<p align="center">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI%20Marketing.png" height="400">
+</p>
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
 
 ## Supply chain View
+<p align="center">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI%20Supply%20Chain.png" height="400">
+</p>
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
 
 ## Executive View
+<p align="center">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI%20Executive.png" height="400">
+</p>
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
-
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
