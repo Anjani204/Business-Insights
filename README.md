@@ -183,7 +183,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 <p align="center">
-  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI_Home%20Page.png" width="300">
+  <img src="https://github.com/Anjani204/Business-Insights/blob/main/resources/BI_Home%20Page.png" height="400">
 </p>
 
 
